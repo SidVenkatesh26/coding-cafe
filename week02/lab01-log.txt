@@ -1,0 +1,101 @@
+    1  cd
+    2  pwd
+    3  ls
+    4  ls -a
+    5  ls -l
+    6  mkdir coding-cafe 
+    7  cd coding-cafe
+    8  mkdir week01
+    9  mkdir week02
+   10  cd week02
+   11  touch notes.md
+   12  cd ..
+   13  touch README.md
+   14  ls
+   15  cd..
+   16  cd ..
+   17  ls
+   18  pwd
+   19  ls
+   20  cd Desktop
+   21  cd Desktop/
+   22  cd ..
+   23  cd Desktop/
+   24  cd
+   25  ls
+   26  cd Desktop/
+   27  mkdir coding-cafe
+   28  cd coding-cafe
+   29  mkdir week01
+   30  mkdir week02
+   31  cd week02
+   32  touch notes.md
+   33  cd ..
+   34  touch README.md
+   35  cd ~
+   36  ls coding-cafe/week02
+   37  cd coding-cafe
+   38  cp README.md README-backup.mp
+   39  cp README.md README-backup.md
+   40  cd ..
+   41  cd Desktop/coding-cafe
+   42  cd Desktop/
+   43  ls
+   44  cd /mnt/c/Users/Siddharth/Desktop/coding-cafe
+   45  cp README.md README-backup.md
+   46  mv README-backup.md week01/
+   47  cd week01
+   48  mv README-backup.md old-readme.md
+   49  ls
+   50  rm old-readme.md
+   51  echo $PATH
+   52  which python3
+   53  pyton3
+   54  which pip
+   55  which ls
+   56  which pip
+   57  python-m pip install --upgrade pip
+   58  which pip
+   59  sudo apt update
+   60  sudo apt install python3-pip
+   61  cd ~/coding-cafe
+   62  python -m venv .venv
+   63  python3 -m venv .venv
+   64  apt install python3.14-venv
+   65  cd ..
+   66  cd ~
+   67  ls
+   68  cd ..
+   69  cd /mnt/c/Users/Siddharth/Desktop
+   70  yes
+   71  python3 -m venv .venv
+   72  apt install python3.14-venv
+   73  exit
+   74  sudo apt update && sudo apt install python3-venv
+   75  python3 -m venv .venv
+   76  source .venv/bin/activate
+   77  exit()
+   78  history
+   79  ls 
+   80  ls -a
+   81  python3 -m venv .venv
+   82  ls -a
+   83  cd Desktop
+   84  cd coding-cafe
+   85  ls
+   86  python3 -m venv .venv
+   87  ls
+   88  ls -a
+   89  source .venv/bin/activate
+   90  which python3
+   91  pip list
+   92  pip install requests
+   93  pip list
+   94  deactivate 
+   95  which python3
+   96  man ls
+   97  man man
+   98  cd cod
+   99  history
+  100  python3
+  101  history > week02/lab01-log.txt
