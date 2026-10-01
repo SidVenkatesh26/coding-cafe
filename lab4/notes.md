@@ -4,4 +4,6 @@
 4) .venv is no longer there
 5) It should be committed so that its contents are ignored
 6) it goes from untracked to committed
-7) 
+7) It outputed a list of 8 files it claims to have changed
+8) e1f861a. UIDs for each commit
+9) 
